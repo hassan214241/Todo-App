@@ -1,10 +1,10 @@
 import logo from './logo.svg';
 import './App.css';
-
+import ToDo from "./component/Todo"
 function App() {
   return (
     <div className="App">
-    
+    <ToDo/>
     </div>
   );
 }
